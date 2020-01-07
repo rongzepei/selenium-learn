@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<data  >
+    <urls name="login">
+        <url>http://192.168.26.232/cmt/service/login</url>
+        <url>http://192.168.26.232/cmt/service/system/role/save</url>
+        <url>http://192.168.26.232/cmt/service/system/user/save</url>
+    </urls>
+    <logins>
+        <login user="11" passwd = '12' />
+        <login user="13" passwd = '14' />
+    </logins>
+</data>
